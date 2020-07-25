@@ -20,7 +20,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Android</center></b></span> 
-<img height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
+<img style="display:block;" height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
 </td>
 
 <td align="center" width="20%">
