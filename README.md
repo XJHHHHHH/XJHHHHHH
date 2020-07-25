@@ -9,7 +9,7 @@
 * 目前假期，在学习Shell 脚本和LaTex。
   
 
-* 如果你想要找到我，欢迎光临我的博客 [Jlog](https://jankinghuang.github.io/) :sparkler:
+* 如果你想要找到我，欢迎光临我的博客 [Jlog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
 
 
 ## Tech Stack :computer:
