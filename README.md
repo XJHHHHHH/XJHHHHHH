@@ -93,7 +93,7 @@
 </table>
 
 
-![Janking Github Stats](https://github-readme-stats.vercel.app/api?username=JankingHuang&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Janking Github Stats](https://github-readme-stats.vercel.app/api?username=JankingHuang&show_icons=true_color=fff&icon_color=0000FF&text_color=000000&bg_color=ffffff)
 
  more [时光里的他和她](https://jankinghuang.github.io/about/)
 
