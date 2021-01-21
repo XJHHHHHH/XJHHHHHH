@@ -66,9 +66,9 @@
 <tr>
 <td align="center" width="20%">
 <div>
-<img height=65px src="https://z5gxqa.bn.files.1drv.com/y4mdziN9lf3UshuqMRTHHIIpQFjEUY_ZTWff8osWpaJ55-ylIuA90tGR-YwOP5FJ6RFriMNYdg1rHlRVuZRxyjmK0Wy5E-XWAP4H7XnrhDT2r3RmdOnp3OBuThVToUGAn_ulG8ELaBUwZnTEHDnbs91TVrxx9KCBNOGX08KH6-0sqZY5naVCXBwqwsG-nM4PC2h67i1SUUG6feRy5HC_4nEZg?width=512&height=512&cropmode=none"> 
+<img height=65px src="https://avatars.githubusercontent.com/u/5690313?s=200&v=4"> 
 </div>
-<span><b><center>Hexo</center></b></span> 
+<span><b><center>ARM</center></b></span> 
 </td>
 
 <td align="center" width="20%">
