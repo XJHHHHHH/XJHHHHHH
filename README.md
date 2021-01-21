@@ -82,9 +82,9 @@
 
 <td align="center" width="20%">
 <div>
-<img height=65px src="https://ohmyz.sh/img/plugin-logos/logo-python.svg"> 
+<img height=65px src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4"> 
 </div>
-<span><b><center>Python</center></b></span> 
+<span><b><center>OpenJDK</center></b></span> 
 </td>
 </tr>
 
