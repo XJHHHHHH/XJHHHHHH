@@ -18,7 +18,7 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="100%">
+<td align="center" width="20%">
 <div>
 <img style="display:block;" height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
 </div>
