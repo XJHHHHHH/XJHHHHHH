@@ -34,9 +34,9 @@
 
 <td align="center" width="20%">
 <div>
-<img height=60px src="https://ohmyz.sh/img/plugin-logos/logo-docker.png"> 
+<img height=60px src="https://avatars.githubusercontent.com/u/159455?s=200&v=4"> 
 </div>
-<span><b><center>Docker</center></b></span> 
+<span><b><center>Qt</center></b></span> 
 </td>
 </tr>
 
