@@ -27,9 +27,9 @@
 
 <td align="center" width="20%">
 <div>
-<img height=60px src="https://manjaro.org/img/logo.svg"> 
+<img height=60px src="https://avatars.githubusercontent.com/u/1656279?s=200&v=4"> 
 </div>
-<span><b><center>Manjaro</center></b></span> 
+<span><b><center>LibOpenCM3</center></b></span> 
 </td>
 
 <td align="center" width="20%">
