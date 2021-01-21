@@ -57,9 +57,9 @@
 
 <td align="center" width="20%">
 <div>
-<img height=65px src="https://ohmyz.sh/img/plugin-logos/logo-vscode.png"> 
+<img height=65px src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4"> 
 </div>
-<span><b><center>vscode</center></b></span> 
+<span><b><center>STM32</center></b></span> 
 </td>
 </tr>
 
