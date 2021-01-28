@@ -6,7 +6,7 @@
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，看纸质书📖
 * 打球🎾、🏓、🏸、🏀也是一个不错的选择
 
-* 目前在～～～()
+* 目前在～～～(不告诉你🤪)
   
 
 * 如果你想要找到我，欢迎光临我的博客 [Jlog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
@@ -18,21 +18,21 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img style="display:block;" height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
 </div>
 <span><b><center>Android</center></b></span> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=60px src="https://avatars.githubusercontent.com/u/1656279?s=200&v=4"> 
 </div>
 <span><b><center>LibOpenCM3</center></b></span> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=60px src="https://avatars.githubusercontent.com/u/159455?s=200&v=4"> 
 </div>
@@ -41,21 +41,21 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </div>
 <span><b><center>C++</center></b></span> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=65px src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4"> 
 </div>
 <span><b><center>OpenCV</center></b></span> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=65px src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4"> 
 </div>
@@ -64,14 +64,14 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=65px src="https://avatars.githubusercontent.com/u/5690313?s=200&v=4"> 
 </div>
 <span><b><center>ARM</center></b></span> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </div>
@@ -80,7 +80,7 @@
 
 
 
-<td align="center" width="20%">
+<td align="center" width="40%">
 <div>
 <img height=65px src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4"> 
 </div>
