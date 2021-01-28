@@ -15,7 +15,7 @@
 ## Tech Stack :computer:
 
 <br>
-<table>
+<table  width = "600px">
 <tbody>
  <tr>
 <td align="center" width="70px">
