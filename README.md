@@ -9,7 +9,7 @@
 * 目前在～～～(不告诉你🤪)
   
 
-* 如果你想要直接与我联系[Janking's community 欢迎加入](https://gitter.im/JankingHuang/community)。
+* 如果你想要直接与我联系 [![Gitter](https://badges.gitter.im/JankingHuang/community.svg)](https://gitter.im/JankingHuang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)。
 * 我的博客 [Janking's Blog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
 
 
