@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* 我是　[Jankin Huang](https://jankinghuang.github.io) :blush:
+* 我是　[Janking Huang](https://jankinghuang.github.io) :blush:
 * 一个持续学习者，热爱编程和算法。热衷开源项目，日常热衷使用Linux桌面系统🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，看纸质书📖
 * 打球🎾、🏓、🏸、🏀也是一个不错的选择
@@ -9,7 +9,8 @@
 * 目前在～～～(不告诉你🤪)
   
 
-* 如果你想要找到我，欢迎光临我的博客 [Jankin's Blog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
+* 如果你想要直接与我联系[Janking's community 欢迎加入](https://gitter.im/JankingHuang/community)。
+* 我的博客 [Janking's Blog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
 
 
 ## Tech Stack :computer:
