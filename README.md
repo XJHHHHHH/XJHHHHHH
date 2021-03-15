@@ -13,7 +13,7 @@
  <tr>
 <td align="center" width="70px">
 <div>
-<img height=60px src=""> 
+<img height=60px src="https://www.runoob.com/wp-content/uploads/2013/12/java.jpg"> 
 </div>
 <span><b><center>JAVA</center></b></span> 
 </td>
