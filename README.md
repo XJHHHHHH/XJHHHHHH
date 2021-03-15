@@ -23,23 +23,8 @@
 <div>
 <img height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
 </div>
-<span><b><center>Android</center></b></span> 
+<span><b><center>JAVA</center></b></span> 
 </td>
-
-<td align="center" width="70px">
-<div>
-<img height=60px src="https://avatars.githubusercontent.com/u/1656279?s=200&v=4"> 
-</div>
-<span><b><center>LibOpenCM3</center></b></span> 
-</td>
-
-<td align="center" width="70px">
-<div>
-<img height=60px src="https://avatars.githubusercontent.com/u/159455?s=200&v=4"> 
-</div>
-<span><b><center>Qt</center></b></span> 
-</td>
-</tr>
 
 <tr>
 <td align="center" width="70px">
@@ -53,23 +38,7 @@
 <div>
 <img height=60px src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4"> 
 </div>
-<span><b><center>OpenCV</center></b></span> 
-</td>
-
-<td align="center" width="70px">
-<div>
-<img height=60px src="https://avatars.githubusercontent.com/u/10744877?s=200&v=4"> 
-</div>
-<span><b><center>STM32</center></b></span> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="70px">
-<div>
-<img height=60px src="https://avatars.githubusercontent.com/u/5690313?s=200&v=4"> 
-</div>
-<span><b><center>ARM</center></b></span> 
+<span><b><center>MySql</center></b></span> 
 </td>
 
 <td align="center" width="70px">
@@ -78,18 +47,6 @@
 </div>
 <span><b><center>Linux </center></b></span> 
 </td>
-
-
-
-<td align="center" width="70px">
-<div>
-<img height=60px src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4"> 
-</div>
-<span><b><center>OpenJDK</center></b></span> 
-</td>
-</tr>
-
-
 </tbody>
 </table>
 
