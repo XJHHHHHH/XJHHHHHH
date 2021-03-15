@@ -28,7 +28,7 @@
 
 <td align="center" width="70px">
 <div>
-<img height=60px src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> 
+<img height=60px src="https://www.runoob.com/wp-content/uploads/2014/03/mysql.jpg"> 
 </div>
 <span><b><center>MySql</center></b></span> 
 </td>
@@ -42,7 +42,7 @@
 
 <td align="center" width="70px">
 <div>
-<img height=60px src="https://www.runoob.com/wp-content/uploads/2014/03/mysql.jpg"> 
+<img height=60px src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> 
 </div>
 <span><b><center>Spring</center></b></span> 
 </td>
