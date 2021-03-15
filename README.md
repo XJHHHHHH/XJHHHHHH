@@ -21,7 +21,7 @@
  <tr>
 <td align="center" width="70px">
 <div>
-<img height=60px src="https://developer.android.com/studio/images/studio-icon.svg?hl=zh-cn"> 
+<img height=60px src="https://icon.52112.com/icon/86075.html"> 
 </div>
 <span><b><center>JAVA</center></b></span> 
 </td>
