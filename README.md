@@ -18,13 +18,13 @@
 <span><b><center>JAVA</center></b></span> 
 </td>
 
-<tr>
+<!-- <tr>
 <td align="center" width="70px">
 <div>
 <img height=60px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </div>
 <span><b><center>C++</center></b></span> 
-</td>
+</td> -->
 
 <td align="center" width="70px">
 <div>
